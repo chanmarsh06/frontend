@@ -1,0 +1,6 @@
+:where(.css-dev-only-do-not-override-1k979oh).ant-card
+  .antdCard
+  .ant-card-body {
+  padding: 24px 24px 0 24px;
+  /* border-radius: 0 0 8px 8px; */
+}
